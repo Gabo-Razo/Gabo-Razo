@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GABRIEL%20GR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Si+no+estoy+codeando%2C+probablemente+estoy+planeando+la+siguiente+soluci%C3%B3n;Ruby+%26+C%2B%2B+son+mis+lenguajes+principales;Programar+es+mi+pasi%C3%B3n)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Si+no+estoy+codeando%2C+estoy+planeando+la+soluci%C3%B3n;Ruby+%26+C%2B%2B+son+mis+lenguajes+principales;Programar+es+mi+pasi%C3%B3n)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
