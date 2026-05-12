@@ -1,10 +1,10 @@
 <div align="center">
 
-# � ANGEL GABRIEL GR 🔥
+# 💠 GABRIEL GR 🔥
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ANGEL%20GABRIEL%20GR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GABRIEL%20GR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=%F0%9F%92%80+Si+no+estoy+codeando%2C+probablemente+estoy+planeando+como+romperlo;%F0%9F%92%8E+Ruby+%26+C%2B%2B+son+mi+pedo;%F0%9F%94%A5+Programar+es+mi+vida+perro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Si+no+estoy+codeando%2C+probablemente+estoy+planeando+la+siguiente+soluci%C3%B3n;Ruby+%26+C%2B%2B+son+mis+lenguajes+principales;Programar+es+mi+pasi%C3%B3n)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -12,43 +12,43 @@
 
 <div align="center">
 
-## � SOBRE MÍ - EL MERO MERO 💀
+## � SOBRE MÍ
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 </div>
 
 ```ruby
-class AngelGabriel
+class GabrielGR
   attr_reader :name, :location, :passion, :vibe
   
   def initialize
-    @name = "Angel Gabriel GR"
+    @name     = "Gabriel GR"
     @location = "México 🇲🇽"
-    @passion = "Programar hasta que el código llore"
-    @status = "Siempre rompiendo y arreglando código"
-    @vibe = "100% perro 🔥"
+    @passion  = "Desarrollo de software y resolución de problemas"
+    @status   = "Siempre aprendiendo, siempre construyendo"
+    @vibe     = "Código limpio, soluciones sólidas"
   end
   
   def skills
     {
-      expert: ["Ruby 💎", "C++ ⚡"],
-      proficient: ["Python 🐍", "JavaScript 🟨", "Dart 🎯"],
-      learning: ["COBOL 📊", "C 🔧"],
-      web: ["HTML 🌐"]
+      expert:     ["Ruby 💎", "C++ ⚡"],
+      proficient: ["Python 🐍", "JavaScript", "Dart"],
+      learning:   ["COBOL", "C"],
+      web:        ["HTML"]
     }
   end
   
-  def current_mood
-    "Construyendo cosas chingonas con Ruby y C++ 🚀"
+  def current_focus
+    "Construyendo proyectos con Ruby y C++"
   end
   
   def motto
-    "Si funciona, no lo toques... ah no, mejor rómpelo y hazlo mejor 😈"
+    "Si funciona, puede funcionar mejor."
   end
 end
 
-dev = AngelGabriel.new
+dev = GabrielGR.new
 puts dev.motto
 ```
 
@@ -60,18 +60,18 @@ puts dev.motto
 
 <div align="center">
 
-## � MI ARSENAL DE LENGUAJES 🔥
+## �️ LENGUAJES Y TECNOLOGÍAS
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-### 💪 LOS QUE DOMINO CABRON
+### Dominio principal
 
 <img src="https://skillicons.dev/icons?i=ruby,cpp&theme=dark" />
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🎯 LOS QUE MANEJO CHIDO
+### Conocimiento adicional
 
 <img src="https://skillicons.dev/icons?i=python,js,dart,c,html&theme=dark" />
 
@@ -88,7 +88,7 @@ puts dev.motto
 
 <div align="center">
 
-## 📊 MIS STATS - BIEN PERROS 📊
+## 📊 ESTADÍSTICAS
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
@@ -109,7 +109,7 @@ puts dev.motto
 
 <div align="center">
 
-## 💀 LO QUE ME PRENDE 💀
+## � LO QUE ME APASIONA
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
 
@@ -120,35 +120,35 @@ puts dev.motto
 #include <vector>
 #include <string>
 
-class PassionPerro {
+class Pasiones {
 private:
-    std::vector<std::string> misPasiones;
+    std::vector<std::string> lista;
     
 public:
-    PassionPerro() {
-        misPasiones = {
-            "💻 Escribir código que haga llorar de felicidad",
-            "🔧 Resolver problemas imposibles como si nada",
-            "🚀 Aprender tecnologías nuevas cada pinche día",
-            "🎮 Crear proyectos que rompan esquemas",
-            "🤝 Colaborar con otros devs chingones",
-            "💀 Debuggear hasta las 3 AM porque sí",
-            "🔥 Hacer que el código sea arte"
+    Pasiones() {
+        lista = {
+            "💻 Escribir código limpio y mantenible",
+            "🔧 Resolver problemas complejos con soluciones simples",
+            "🚀 Aprender nuevas tecnologías constantemente",
+            "� Crear proyectos que aporten valor real",
+            "🤝 Colaborar con otros desarrolladores",
+            "� Depurar y optimizar sistemas",
+            "🔥 Hacer del código una forma de arte"
         };
     }
     
-    void mostrarPasion() {
-        std::cout << "🔥 MI PASIÓN POR LA PROGRAMACIÓN:\n\n";
-        for(const auto& pasion : misPasiones) {
-            std::cout << "  ▸ " << pasion << std::endl;
+    void mostrar() {
+        std::cout << "MI PASIÓN POR LA PROGRAMACIÓN:\n\n";
+        for(const auto& item : lista) {
+            std::cout << "  ▸ " << item << std::endl;
         }
-        std::cout << "\n💎 Ruby y C++ son mi vida perro! 💎\n";
+        std::cout << "\n💎 Ruby y C++ son mis herramientas principales.\n";
     }
 };
 
 int main() {
-    PassionPerro miVida;
-    miVida.mostrarPasion();
+    Pasiones p;
+    p.mostrar();
     return 0;
 }
 ```
@@ -161,7 +161,7 @@ int main() {
 
 <div align="center">
 
-## 🏆 MIS PROYECTOS CHINGONES 🏆
+## 🏆 PROYECTOS DESTACADOS
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
@@ -177,7 +177,7 @@ int main() {
 <img src="https://img.shields.io/badge/VER_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p><strong>Reconocimiento de INE con Ruby - Bien perro 🔥</strong></p>
+<p><strong>Reconocimiento de INE con Ruby</strong></p>
 </div>
 
 </td>
@@ -191,7 +191,7 @@ int main() {
 <img src="https://img.shields.io/badge/VER_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p><strong>App manager con Sinatra - Ruby al 100 💎</strong></p>
+<p><strong>Gestor de aplicaciones con Sinatra y Ruby</strong></p>
 </div>
 
 </td>
@@ -208,13 +208,13 @@ int main() {
 <img src="https://img.shields.io/badge/VER_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p><strong>Manejo de PDFs como un pro 📄</strong></p>
+<p><strong>Gestión y procesamiento de archivos PDF</strong></p>
 </div>
 
 </td>
 <td width="50%">
 
-<h3 align="center">🎯 GRV Tensor</h3>
+<h3 align="center">🧮 GRV Tensor</h3>
 <div align="center">
 <a href="https://github.com/Gabo-Razo/grv-tensor" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabo-Razo&repo=grv-tensor&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" alt="GRV Tensor"/></a>
 <p>
@@ -222,7 +222,7 @@ int main() {
 <img src="https://img.shields.io/badge/VER_REPO-ff0000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p><strong>Tensores y matemáticas chingonas 🧮</strong></p>
+<p><strong>Operaciones con tensores y matemáticas aplicadas</strong></p>
 </div>
 
 </td>
@@ -235,41 +235,41 @@ int main() {
 
 <div align="center">
 
-## 💭 MI FILOSOFÍA DE CÓDIGO 💭
+## 💭 FILOSOFÍA DE DESARROLLO
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
 </div>
 
-> ### *"Si no estoy codeando, probablemente estoy planeando como romperlo... y luego arreglarlo mejor que antes 😈"*
+> ### *"Si no estoy programando, probablemente estoy planeando cómo mejorar lo que ya existe."*
 
 <div align="center">
 
 ```python
-def mi_filosofia_perro():
+def filosofia_de_desarrollo():
     principios = [
-        "🎯 El código limpio es código que no te hace llorar",
-        "🔥 Nunca dejes de aprender, siempre hay algo más chingón",
-        "💪 Los bugs son oportunidades para demostrar quién manda",
-        "🚀 Si funciona, puede funcionar MUCHO mejor",
-        "🤝 Compartir conocimiento es crecer juntos cabrones",
-        "💀 Debuggear a las 3 AM es parte del lifestyle",
-        "💎 Ruby y C++ son amor, son vida",
-        "⚡ El código es arte, y yo soy el pinche artista"
+        "El código limpio es código que cualquiera puede entender",
+        "Nunca dejes de aprender, siempre hay algo nuevo por descubrir",
+        "Los bugs son oportunidades para entender mejor el sistema",
+        "Si funciona, puede funcionar mejor",
+        "Compartir conocimiento es la mejor forma de crecer",
+        "La depuración es parte del proceso, no el problema",
+        "Ruby y C++ son mis herramientas, la lógica es mi lenguaje",
+        "El código bien escrito es la mejor documentación"
     ]
     
     print("╔═══════════════════════════════════════════════════╗")
     print("║                                                   ║")
-    print("║        🔥 MI FILOSOFÍA DE PROGRAMACIÓN 🔥        ║")
+    print("║         FILOSOFÍA DE DESARROLLO                  ║")
     print("║                                                   ║")
     print("╚═══════════════════════════════════════════════════╝\n")
     
     for principio in principios:
-        print(f"  {principio}")
+        print(f"  ▸ {principio}")
     
-    return "\n💻 Keep coding, keep breaking, keep fixing! �\n"
+    return "\nKeep coding, keep improving.\n"
 
-print(mi_filosofia_perro())
+print(filosofia_de_desarrollo())
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -278,7 +278,7 @@ print(mi_filosofia_perro())
 
 <div align="center">
 
-## 📫 CONECTA CONMIGO PERRO 📫
+## 📫 CONTACTO
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
@@ -291,7 +291,7 @@ print(mi_filosofia_perro())
 
 <div align="center">
 
-## 🎮 ACTIVIDAD RECIENTE 🎮
+## 🕐 ACTIVIDAD RECIENTE
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -304,13 +304,13 @@ print(mi_filosofia_perro())
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 
-## � "EL CÓDIGO ES POESÍA, Y YO ESTOY ESCRIBIENDO MI OBRA MAESTRA" 💀
+## � "EL CÓDIGO ES POESÍA, Y YO ESTOY ESCRIBIENDO MI OBRA MAESTRA"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gabo-Razo&color=ff0000&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
-### 🔥 Hecho con 💎 Ruby & ⚡ C++ por el mero mero 🔥
+### Desarrollado con 💎 Ruby & ⚡ C++ por Gabriel GR
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -323,16 +323,16 @@ print(mi_filosofia_perro())
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
-║     █████╗ ███╗   ██╗ ██████╗ ███████╗██╗         ██████╗ ██████╗   ║
-║    ██╔══██╗████╗  ██║██╔════╝ ██╔════╝██║        ██╔════╝ ██╔══██╗  ║
-║    ███████║██╔██╗ ██║██║  ███╗█████╗  ██║        ██║  ███╗██████╔╝  ║
-║    ██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██║        ██║   ██║██╔══██╗  ║
-║    ██║  ██║██║ ╚████║╚██████╔╝███████╗███████╗   ╚██████╔╝██║  ██║  ║
-║    ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝  ║
+║            ██████╗ ██████╗                                            ║
+║           ██╔════╝ ██╔══██╗                                           ║
+║           ██║  ███╗██████╔╝                                           ║
+║           ██║   ██║██╔══██╗                                           ║
+║           ╚██████╔╝██║  ██║                                           ║
+║            ╚═════╝ ╚═╝  ╚═╝                                           ║
 ║                                                                       ║
-║                  🔥 TRANSFORMANDO CAFÉ EN CÓDIGO 🔥                   ║
-║                     💀 DESDE MÉXICO CON AMOR 💀                       ║
-║                  💎 Ruby & C++ son mi religión 💎                     ║
+║                    Transformando ideas en código                      ║
+║                         Desde México 🇲🇽                              ║
+║                      Ruby & C++ — mi especialidad                     ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
